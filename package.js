@@ -1,8 +1,8 @@
 Package.describe({
     summary: "Make signin and signout their own pages with routes.",
-    version: '1.0.7',
-    name: "echograde:accounts-entry",
-    githubUrl: 'https://github.com/nschulte/accounts-entry',
+    version: '1.0.10',
+    name: "meteorblackbelt:accounts-entry",
+    git: 'https://github.com/meteorblackbelt/accounts-entry',
 });
 
 Package.onUse(function(api) {
