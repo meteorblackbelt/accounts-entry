@@ -11,3 +11,4 @@ packages
 Makefile
 start_test.js
 phantom_runner.js
+.versions
